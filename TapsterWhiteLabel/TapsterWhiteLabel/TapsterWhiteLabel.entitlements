@@ -6,7 +6,7 @@
 	<string>development</string>
 	<key>com.apple.developer.in-app-payments</key>
 	<array>
-		<string>merchant.com.gopostcard.brfc</string>
+		<string>merchant.com.gopostcard.sosta</string>
 	</array>
 </dict>
 </plist>
