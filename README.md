@@ -1,1 +1,2 @@
-# HelloWorld oks 
+# whitelabel-tapster-ios
+Tapster white label apps - iOS development
