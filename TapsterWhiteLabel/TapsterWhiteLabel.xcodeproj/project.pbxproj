@@ -906,7 +906,7 @@
 				INFOPLIST_FILE = TapsterWhiteLabel/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-PRODUCT_BUNDLE_IDENTIFIER = com.gopostcard.sosta;
+PRODUCT_BUNDLE_IDENTIFIER = com.gopostcard.brfc;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -931,7 +931,7 @@ PRODUCT_BUNDLE_IDENTIFIER = com.gopostcard.sosta;
 				INFOPLIST_FILE = TapsterWhiteLabel/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-PRODUCT_BUNDLE_IDENTIFIER = com.gopostcard.sosta;
+PRODUCT_BUNDLE_IDENTIFIER = com.gopostcard.brfc;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Bridging-Header.h";
