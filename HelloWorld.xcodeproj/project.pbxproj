@@ -101,7 +101,6 @@
 				B6C72A24CB683A9DABE98E70 /* Pods-HelloWorldTests.debug.xcconfig */,
 				A91AE0025E7FBB14A82E890A /* Pods-HelloWorldTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -556,7 +555,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.vogueme.HelloWorld;
+				PRODUCT_BUNDLE_IDENTIFIER = com.buildpan.HelloWorld;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -576,7 +575,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.vogueme.HelloWorld;
+				PRODUCT_BUNDLE_IDENTIFIER = com.buildpan.HelloWorld;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
